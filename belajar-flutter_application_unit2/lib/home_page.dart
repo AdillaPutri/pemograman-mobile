@@ -27,7 +27,7 @@ class HomePage extends StatelessWidget {
                   height: MediaQuery.of(context).size.height * 0.5,
                   width: MediaQuery.of(context).size.width,
                   color: Colors.teal,
-                  child: Center(child: Text(" Halo Lala boneng")),
+                  child: Center(child: Text(" selamat datang")),
                 ),
                 Container(
                   height: 300,
